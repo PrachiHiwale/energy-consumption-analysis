@@ -17,3 +17,6 @@ Purpose:
 To understand and improve energy efficiency in buildings by leveraging data-driven insights and advanced visualizations.
 
 Feel free to explore, contribute, or use this project as a reference for similar analyses!
+
+
+![Screenshot of Heading - Analysis of Energy Consumption in Buildings](https://github.com/user-attachments/assets/69c96573-3453-4c3e-aef9-820355e1c428)
